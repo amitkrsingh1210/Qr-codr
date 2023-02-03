@@ -1,0 +1,29 @@
+body{
+    background-color: #d5e1ef;
+}
+.code{
+    max-width:320px;
+    min-height:500px;
+    border-radius: 20px;
+    margin: 120px auto;
+    background-color: #ffff;
+}
+img{
+    width: 285px;
+    height: 285px;
+    margin: 15px;
+    border-radius: 10px;
+}
+h2{
+    margin-left:25px;
+    margin-right: 25px;
+    margin-top: -2px;
+
+}
+p{
+    margin-left:34px;
+    margin-right: 34px;
+    margin-top: -3px;
+    font-weight: 700;
+    font-size: 15px;
+}
